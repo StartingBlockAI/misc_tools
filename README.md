@@ -13,8 +13,6 @@
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -91,7 +89,9 @@ We highly recommend the use of virtual environments, however each tool in this r
 
 
 ### Prerequisites
-TBD
+1.  python3 -m venv .venv
+2.  myenv\Scripts\activate
+3.  pip install -r requirements.txt
 <!--This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
