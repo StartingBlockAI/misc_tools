@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/StartingBlockAI/misc_tools">
-    <img src="images/digital_toolbox_logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/StartingBlockAI/misc_tools/blob/main/images/Connected%20Documents.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
